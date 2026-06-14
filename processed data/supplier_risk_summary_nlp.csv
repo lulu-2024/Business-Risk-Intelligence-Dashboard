@@ -1,0 +1,321 @@
+Vendor ID,total_defect_qty,total_downtime_minutes,total_defect_reports,Vendor,downtime_risk_score,defect_qty_risk_score,report_frequency_risk_score,supplier_risk_score,risk_level,recommendation,complaint_count,avg_text_risk_score,high_risk_text_count,supplier_risk_score_nlp,risk_level_nlp,recommendation_nlp
+1,484594,26185,710,Reddoit,100.0,12.150691502258788,100.0,69.25,Medium Risk,Monitor supplier performance and investigate recurring issues.,710,3.2,0,54.29,High Risk,Prioritize supplier review and corrective action plan.
+2,3838867,10405,323,Plustax,39.73649035707466,96.2556049707625,45.41607898448519,60.94,Medium Risk,Monitor supplier performance and investigate recurring issues.,323,3.19,0,50.52,High Risk,Prioritize supplier review and corrective action plan.
+4,3169402,5978,396,Quotelane,22.829864426198203,79.46946505454464,55.71227080394922,50.87,Medium Risk,Monitor supplier performance and investigate recurring issues.,396,0.91,0,42.01,High Risk,Prioritize supplier review and corrective action plan.
+36,3988201,2300,118,Solholdings,8.783654764177964,100.0,16.502115655853313,42.64,Medium Risk,Monitor supplier performance and investigate recurring issues.,118,3.6,1,36.66,High Risk,"Prioritize supplier audit, review repeated issues, and request corrective action plan."
+11,2982348,3088,187,Dentocity,11.79301126599198,74.77928018171602,26.234132581100138,37.45,Low Risk,Maintain regular monitoring.,187,0.88,0,31.39,High Risk,Prioritize supplier review and corrective action plan.
+9,735527,10006,404,xx-way,38.2127172045064,18.44257598852214,56.84062059238364,35.95,Low Risk,Maintain regular monitoring.,404,1.13,0,28.59,High Risk,Prioritize supplier review and corrective action plan.
+20,2589319,4215,96,Recode,16.097002100439184,64.92448600258612,13.399153737658676,32.51,Low Risk,Maintain regular monitoring.,96,7.19,4,28.42,High Risk,"Prioritize supplier audit, review repeated issues, and request corrective action plan."
+16,2005374,3327,152,ontotam,12.705747565400038,50.28267130969577,21.297602256699577,28.01,Low Risk,Maintain regular monitoring.,152,1.88,0,23.53,High Risk,Prioritize supplier review and corrective action plan.
+62,513653,10275,170,Sanlab,39.240022913882,12.87931576166798,23.836389280677007,26.16,Low Risk,Maintain regular monitoring.,170,5.15,0,21.43,High Risk,Prioritize supplier review and corrective action plan.
+34,1681683,3382,70,Planethouse,12.91579148367386,42.16645550211737,9.732016925246826,22.36,Low Risk,Maintain regular monitoring.,70,8.71,3,20.21,High Risk,"Prioritize supplier audit, review repeated issues, and request corrective action plan."
+55,1828614,3088,69,Instrip,11.79301126599198,45.8505978008631,9.590973201692526,23.16,Low Risk,Maintain regular monitoring.,69,2.9,0,19.79,High Risk,Prioritize supplier review and corrective action plan.
+14,1274282,2221,255,Subdrill,8.481955317930112,31.95129834228516,35.82510578279267,23.53,Low Risk,Maintain regular monitoring.,255,0.43,0,19.38,High Risk,Prioritize supplier review and corrective action plan.
+53,1810404,1030,57,Bamtechnology,3.933549742218828,45.39400095431499,7.898448519040903,19.44,Low Risk,Maintain regular monitoring.,57,2.02,0,16.78,High Risk,Prioritize supplier review and corrective action plan.
+256,262016,1440,2,O-ace,5.499331678441856,6.5697792062135285,0.1410437235543018,4.53,Low Risk,Maintain regular monitoring.,2,62.5,1,16.15,High Risk,"Prioritize supplier audit, review repeated issues, and request corrective action plan."
+47,1031887,3658,63,Sanin,13.969830055375215,25.873495342887683,8.744710860366714,16.83,Low Risk,Maintain regular monitoring.,63,5.08,0,14.72,High Risk,Prioritize supplier review and corrective action plan.
+89,1024840,3318,43,J-lax,12.671376742409777,25.696799133243285,5.923836389280677,15.54,Low Risk,Maintain regular monitoring.,43,7.09,2,14.11,High Risk,"Prioritize supplier audit, review repeated issues, and request corrective action plan."
+27,351698,4965,152,scotquote,18.96123734962765,8.818462259048628,21.297602256699577,16.0,Low Risk,Maintain regular monitoring.,152,2.07,0,13.01,High Risk,Prioritize supplier review and corrective action plan.
+52,1068642,1650,42,Yearlex,6.301317548214628,26.795088813226812,5.782792665726375,13.34,Low Risk,Maintain regular monitoring.,42,6.79,1,12.44,High Risk,"Prioritize supplier audit, review repeated issues, and request corrective action plan."
+21,1026910,1419,39,Ganjazone,5.419133091464579,25.748702234415973,5.359661495063469,12.52,Low Risk,Maintain regular monitoring.,39,4.23,0,11.27,High Risk,Prioritize supplier review and corrective action plan.
+23,838151,2044,52,Keyzunbase,7.805995799121634,21.01576625651516,7.193229901269394,12.28,Low Risk,Maintain regular monitoring.,52,3.37,0,10.76,High Risk,Prioritize supplier review and corrective action plan.
+17,254974,583,288,Trio-dax,2.226465533702501,6.393208366378726,40.47954866008463,13.25,Low Risk,Maintain regular monitoring.,288,0.24,0,10.73,High Risk,Prioritize supplier review and corrective action plan.
+107,1040221,764,22,Zentrax,2.917700973839985,26.082461741522057,2.9619181946403383,11.04,Low Risk,Maintain regular monitoring.,22,6.82,1,10.66,High Risk,"Prioritize supplier audit, review repeated issues, and request corrective action plan."
+153,1168349,0,21,Zunice,0.0,29.29513833430161,2.8208744710860367,10.96,Low Risk,Maintain regular monitoring.,21,5.71,0,10.49,High Risk,Prioritize supplier review and corrective action plan.
+79,611199,1726,43,Blueit,6.591560053465724,15.32518045103544,5.923836389280677,9.48,Low Risk,Maintain regular monitoring.,43,6.98,0,9.16,High Risk,Prioritize supplier review and corrective action plan.
+43,986031,0,9,Whitefan,0.0,24.723703745122176,1.1283497884344147,8.94,Low Risk,Maintain regular monitoring.,9,6.67,0,8.98,High Risk,Prioritize supplier review and corrective action plan.
+104,999652,0,10,Saozoomtex,0.0,25.06523618042321,1.2693935119887163,9.09,Low Risk,Maintain regular monitoring.,10,6.0,0,8.97,High Risk,Prioritize supplier review and corrective action plan.
+118,849338,540,23,Strongtechnology,2.062249379415696,21.29626866850492,3.1029619181946404,9.05,Low Risk,Maintain regular monitoring.,23,6.3,0,8.89,High Risk,Prioritize supplier review and corrective action plan.
+75,919642,370,19,Vaiazozice,1.4130227229329768,23.059068487270327,2.538787023977433,9.27,Low Risk,Maintain regular monitoring.,19,5.0,0,8.85,High Risk,Prioritize supplier review and corrective action plan.
+32,359013,2163,106,Fax-ex,8.260454458659538,9.001878290487365,14.809590973201692,10.16,Low Risk,Maintain regular monitoring.,106,2.31,0,8.6,High Risk,Prioritize supplier review and corrective action plan.
+96,585750,1299,75,Singleholdings,4.9608554515944245,14.687073194154458,10.437235543018335,9.73,Low Risk,Maintain regular monitoring.,75,1.2,0,8.22,High Risk,Prioritize supplier review and corrective action plan.
+56,155059,3605,44,xx-bam,13.767424097765897,3.887943461224748,6.064880112834979,8.38,Low Risk,Maintain regular monitoring.,44,7.16,0,7.94,High Risk,Prioritize supplier review and corrective action plan.
+119,484605,0,3,Plextechi,0.0,12.150967315839898,0.2820874471086037,4.32,Low Risk,Maintain regular monitoring.,3,20.0,0,7.7,High Risk,Prioritize supplier review and corrective action plan.
+234,35600,360,1,white-high,1.374832919610464,0.8926330443224902,0.0,0.86,Low Risk,Maintain regular monitoring.,1,35.0,0,7.68,High Risk,Prioritize supplier review and corrective action plan.
+216,587989,1393,14,Gravemedia,5.319839602826045,14.74321379489148,1.833568406205924,7.75,Low Risk,Maintain regular monitoring.,14,6.43,0,7.67,High Risk,Prioritize supplier review and corrective action plan.
+19,728944,528,47,tampquote,2.0164216154286803,18.27751409720824,6.488011283497884,8.83,Low Risk,Maintain regular monitoring.,47,1.17,0,7.62,High Risk,Prioritize supplier review and corrective action plan.
+320,13083,375,1,Donware,1.4321176245942333,0.3280426437885151,0.0,0.69,Low Risk,Maintain regular monitoring.,1,35.0,0,7.53,High Risk,Prioritize supplier review and corrective action plan.
+142,2048,390,2,Lexiplus,1.4894023295780026,0.0513514740104623,0.1410437235543018,0.65,Low Risk,Maintain regular monitoring.,2,35.0,0,7.49,High Risk,Prioritize supplier review and corrective action plan.
+213,410,120,1,conestreet,0.4582776398701547,0.0102803243868601,0.0,0.19,Low Risk,Maintain regular monitoring.,1,35.0,0,7.14,High Risk,Prioritize supplier review and corrective action plan.
+314,0,105,1,Finlux,0.4009929348863853,0.0,0.0,0.16,Low Risk,Maintain regular monitoring.,1,35.0,0,7.12,High Risk,Prioritize supplier review and corrective action plan.
+250,845235,0,22,ganz-is,0.0,21.193390202750564,2.9619181946403383,8.16,Low Risk,Maintain regular monitoring.,22,0.0,0,6.95,High Risk,Prioritize supplier review and corrective action plan.
+18,428994,1312,48,Ventocore,5.010502195913691,10.756579219552878,6.629055007052186,7.43,Low Risk,Maintain regular monitoring.,48,2.92,0,6.64,High Risk,Prioritize supplier review and corrective action plan.
+58,411243,1200,51,zoofan,4.582776398701547,10.31149132152567,7.052186177715091,7.21,Low Risk,Maintain regular monitoring.,51,3.43,0,6.56,High Risk,Prioritize supplier review and corrective action plan.
+243,204781,0,1,hotity,0.0,5.134670995769771,0.0,1.8,Low Risk,Maintain regular monitoring.,1,20.0,0,5.54,High Risk,Prioritize supplier review and corrective action plan.
+70,560996,360,16,Sunjob,1.374832919610464,14.066392340807296,2.1156558533145278,6.0,Low Risk,Maintain regular monitoring.,16,1.25,0,5.31,High Risk,Prioritize supplier review and corrective action plan.
+239,128160,0,1,Scotlex,0.0,3.2134789595609647,0.0,1.12,Low Risk,Maintain regular monitoring.,1,20.0,0,4.96,High Risk,Prioritize supplier review and corrective action plan.
+13,92600,1419,68,Damdexon,5.419133091464579,2.3218488737152416,9.449929478138223,5.34,Low Risk,Maintain regular monitoring.,68,1.54,0,4.52,High Risk,Prioritize supplier review and corrective action plan.
+57,246114,940,45,Zaamhouse,3.5898415123162115,6.17105306377487,6.205923836389281,5.15,Low Risk,Maintain regular monitoring.,45,1.56,0,4.48,High Risk,Prioritize supplier review and corrective action plan.
+72,326058,334,54,Daltfax,1.2755394309719306,8.175565875441082,7.475317348377997,5.24,Low Risk,Maintain regular monitoring.,54,0.65,0,4.46,High Risk,Prioritize supplier review and corrective action plan.
+242,0,480,2,Latgotrax,1.8331105594806187,0.0,0.1410437235543018,0.77,Low Risk,Maintain regular monitoring.,2,17.5,0,4.08,High Risk,Prioritize supplier review and corrective action plan.
+7,358570,75,46,O-job,0.2864235249188467,8.990770525357172,6.346967559943582,4.85,Low Risk,Maintain regular monitoring.,46,0.0,0,4.05,High Risk,Prioritize supplier review and corrective action plan.
+42,171204,1059,44,Canemedkix,4.044300171854115,4.292762576409765,6.064880112834979,4.64,Low Risk,Maintain regular monitoring.,44,1.59,0,4.03,High Risk,Prioritize supplier review and corrective action plan.
+110,2775,360,4,Ranmedia,1.374832919610464,0.0695802443256997,0.4231311706629055,0.68,Low Risk,Maintain regular monitoring.,4,17.5,0,4.02,High Risk,Prioritize supplier review and corrective action plan.
+182,409540,240,10,Labdox,0.9165552797403094,10.268790364377322,1.2693935119887163,4.28,Low Risk,Maintain regular monitoring.,10,2.0,0,4.01,High Risk,Prioritize supplier review and corrective action plan.
+84,21670,2118,23,Scotfase,8.08860034370823,0.5433527547884373,3.1029619181946404,4.2,Low Risk,Maintain regular monitoring.,23,3.04,0,3.82,High Risk,Prioritize supplier review and corrective action plan.
+185,4628,180,2,Saokeycane,0.687416459805232,0.1160422957619237,0.1410437235543018,0.35,Low Risk,Maintain regular monitoring.,2,17.5,0,3.77,High Risk,Prioritize supplier review and corrective action plan.
+245,436010,0,18,Striplane,0.0,10.93249813637778,2.3977433004231314,4.43,Low Risk,Maintain regular monitoring.,18,0.0,0,3.76,High Risk,Prioritize supplier review and corrective action plan.
+300,26830,999,3,citydexon,3.8151613519190377,0.67273439829136,0.2820874471086037,1.83,Low Risk,Maintain regular monitoring.,3,11.67,0,3.74,High Risk,Prioritize supplier review and corrective action plan.
+105,21818,1998,17,Funlax,7.630322703838075,0.5470637011524745,2.2566995768688294,3.81,Low Risk,Maintain regular monitoring.,17,4.12,0,3.73,High Risk,Prioritize supplier review and corrective action plan.
+289,628,104,2,una-phase,0.397173954554134,0.0157464480852394,0.1410437235543018,0.2,Low Risk,Maintain regular monitoring.,2,17.5,0,3.65,High Risk,Prioritize supplier review and corrective action plan.
+59,220773,382,23,Zuntexon,1.4588504869199923,5.535653794781156,3.1029619181946404,3.3,Low Risk,Maintain regular monitoring.,23,4.57,0,3.63,High Risk,Prioritize supplier review and corrective action plan.
+116,331681,0,9,Zummatexon,0.0,8.316556763312581,1.1283497884344147,3.19,Low Risk,Maintain regular monitoring.,9,4.44,0,3.61,High Risk,Prioritize supplier review and corrective action plan.
+237,428643,0,11,Opebase,0.0,10.747778258919247,1.4104372355430184,4.11,Low Risk,Maintain regular monitoring.,11,0.0,0,3.51,High Risk,Prioritize supplier review and corrective action plan.
+303,350461,0,22,Conehotice,0.0,8.787445768154614,2.9619181946403383,3.82,Low Risk,Maintain regular monitoring.,22,0.0,0,3.23,High Risk,Prioritize supplier review and corrective action plan.
+22,296283,415,15,hottaxon,1.5848768378842848,7.428988659297763,1.9746121297602257,3.73,Low Risk,Maintain regular monitoring.,15,0.0,0,3.1,High Risk,Prioritize supplier review and corrective action plan.
+6,11470,1280,22,Silverfase,4.88829482528165,0.2875983432128922,2.9619181946403383,2.8,Low Risk,Maintain regular monitoring.,22,4.77,0,3.1,High Risk,Prioritize supplier review and corrective action plan.
+323,122723,0,2,Goldentechi,0.0,3.077151828606432,0.1410437235543018,1.11,Low Risk,Maintain regular monitoring.,2,10.0,0,2.95,High Risk,Prioritize supplier review and corrective action plan.
+175,328103,0,16,Faseron,0.0,8.226842127565787,2.1156558533145278,3.41,Low Risk,Maintain regular monitoring.,16,0.0,0,2.89,High Risk,Prioritize supplier review and corrective action plan.
+29,166104,576,17,Lazap,2.1997326713767427,4.164885370621993,2.2566995768688294,2.9,Low Risk,Maintain regular monitoring.,17,2.06,0,2.77,High Risk,Prioritize supplier review and corrective action plan.
+270,258980,0,6,Streetlam,0.0,6.493654657826925,0.7052186177715092,2.45,Low Risk,Maintain regular monitoring.,6,3.33,0,2.76,High Risk,Prioritize supplier review and corrective action plan.
+64,231220,230,8,Tamholding,0.8783654764177964,5.797601474950736,0.9873060648801129,2.63,Low Risk,Maintain regular monitoring.,8,2.5,0,2.7,High Risk,Prioritize supplier review and corrective action plan.
+8,220122,45,35,Howtaxon,0.171854114951308,5.519330645571776,4.795486600846263,3.2,Low Risk,Maintain regular monitoring.,35,0.0,0,2.67,High Risk,Prioritize supplier review and corrective action plan.
+5,72783,720,16,Viatom,2.749665839220928,1.8249581703630284,2.1156558533145278,2.27,Low Risk,Maintain regular monitoring.,16,4.38,0,2.67,High Risk,Prioritize supplier review and corrective action plan.
+129,242795,0,28,Scotcan,0.0,6.087832584165141,3.80818053596615,3.08,Low Risk,Maintain regular monitoring.,28,0.0,0,2.59,High Risk,Prioritize supplier review and corrective action plan.
+132,266507,0,20,Zotcare,0.0,6.682386369192525,2.6798307475317347,3.01,Low Risk,Maintain regular monitoring.,20,0.0,0,2.54,High Risk,Prioritize supplier review and corrective action plan.
+95,225447,0,29,Rancan,0.0,5.652849492791361,3.9492242595204514,2.97,Low Risk,Maintain regular monitoring.,29,0.0,0,2.49,High Risk,Prioritize supplier review and corrective action plan.
+80,245525,0,22,roundphase,0.0,6.156284500204478,2.9619181946403383,2.9,Low Risk,Maintain regular monitoring.,22,0.0,0,2.44,High Risk,Prioritize supplier review and corrective action plan.
+296,284800,0,10,Canex,0.0,7.141064354579922,1.2693935119887163,2.82,Low Risk,Maintain regular monitoring.,10,0.0,0,2.4,High Risk,Prioritize supplier review and corrective action plan.
+99,184125,56,34,Condintex,0.2138628986060722,4.616743238367374,4.65444287729196,2.87,Low Risk,Maintain regular monitoring.,34,0.0,0,2.38,High Risk,Prioritize supplier review and corrective action plan.
+77,212941,0,28,nimlab,0.0,5.339274525030207,3.80818053596615,2.82,Low Risk,Maintain regular monitoring.,28,0.0,0,2.36,High Risk,Prioritize supplier review and corrective action plan.
+150,8596,1065,31,D-zohex,4.067214053847622,0.2155357766571946,4.231311706629055,2.76,Low Risk,Maintain regular monitoring.,31,1.13,0,2.36,High Risk,Prioritize supplier review and corrective action plan.
+174,2899,300,4,Faxron,1.1456940996753868,0.0726894156036769,0.4231311706629055,0.59,Low Risk,Maintain regular monitoring.,4,8.75,0,2.2,High Risk,Prioritize supplier review and corrective action plan.
+69,74289,10,57,Zoodrill,0.0381898033225128,1.8627195570133,7.898448519040903,2.64,Low Risk,Maintain regular monitoring.,57,0.0,0,2.15,High Risk,Prioritize supplier review and corrective action plan.
+45,163711,310,12,Xx-dotone,1.1838839029978996,4.104883379749416,1.5514809590973202,2.3,Low Risk,Maintain regular monitoring.,12,0.0,0,1.9,High Risk,Prioritize supplier review and corrective action plan.
+155,132160,0,27,Fasetech,0.0,3.3137748072376496,3.6671368124118473,2.08,Low Risk,Maintain regular monitoring.,27,0.0,0,1.73,High Risk,Prioritize supplier review and corrective action plan.
+46,48531,322,14,Tamcan,1.229711666984915,1.2168644458992914,1.833568406205924,1.38,Low Risk,Maintain regular monitoring.,14,2.5,0,1.6,High Risk,Prioritize supplier review and corrective action plan.
+171,178125,0,10,Ozeris,0.0,4.466299466852348,1.2693935119887163,1.88,Low Risk,Maintain regular monitoring.,10,0.0,0,1.59,High Risk,Prioritize supplier review and corrective action plan.
+63,47710,200,9,Mathing,0.7637960664502578,1.196278723163652,1.1283497884344147,1.01,Low Risk,Maintain regular monitoring.,9,3.89,0,1.59,High Risk,Prioritize supplier review and corrective action plan.
+85,145306,0,15,Newzap,0.0,3.643397110627072,1.9746121297602257,1.77,Low Risk,Maintain regular monitoring.,15,0.0,0,1.49,High Risk,Prioritize supplier review and corrective action plan.
+83,108893,0,21,Dontam,0.0,2.730378935264296,2.8208744710860367,1.66,Low Risk,Maintain regular monitoring.,21,0.0,0,1.38,High Risk,Prioritize supplier review and corrective action plan.
+108,73888,40,27,bluecorporation,0.1527592132900515,1.8526648982837124,3.6671368124118473,1.63,Low Risk,Maintain regular monitoring.,27,0.0,0,1.34,High Risk,Prioritize supplier review and corrective action plan.
+26,19833,0,43,zotit,0.0,0.4972918867429199,5.923836389280677,1.66,Low Risk,Maintain regular monitoring.,43,0.0,0,1.33,High Risk,Prioritize supplier review and corrective action plan.
+28,110,120,7,Stimmedia,0.4582776398701547,0.0027581358111088,0.846262341325811,0.4,Low Risk,Maintain regular monitoring.,7,5.0,0,1.31,High Risk,Prioritize supplier review and corrective action plan.
+164,160200,0,4,Y-flex,0.0,4.016848699451206,0.4231311706629055,1.51,Low Risk,Maintain regular monitoring.,4,0.0,0,1.29,High Risk,Prioritize supplier review and corrective action plan.
+172,135440,0,5,Singlejob,0.0,3.3960174023325305,0.5641748942172073,1.33,Low Risk,Maintain regular monitoring.,5,0.0,0,1.13,High Risk,Prioritize supplier review and corrective action plan.
+25,7874,0,38,Villacom,0.0,0.197432376151553,5.218617771509168,1.37,Low Risk,Maintain regular monitoring.,38,0.0,0,1.1,High Risk,Prioritize supplier review and corrective action plan.
+12,24828,380,18,Indi-dox,1.4512125262554898,0.6225363265291795,2.3977433004231314,1.4,Low Risk,Maintain regular monitoring.,18,0.0,0,1.1,High Risk,Prioritize supplier review and corrective action plan.
+24,57299,33,19,K-is,0.1260263509642925,1.4367129440065831,2.538787023977433,1.19,Low Risk,Maintain regular monitoring.,19,0.0,0,0.98,Medium Risk,Monitor supplier performance and investigate recurring issues.
+92,39354,102,20,Vaiazoom,0.3895359938896314,0.9867606973670584,2.6798307475317347,1.17,Low Risk,Maintain regular monitoring.,20,0.0,0,0.95,Medium Risk,Monitor supplier performance and investigate recurring issues.
+68,119047,0,3,Unoex,0.0,2.984979944591559,0.2820874471086037,1.12,Low Risk,Maintain regular monitoring.,3,0.0,0,0.95,Medium Risk,Monitor supplier performance and investigate recurring issues.
+279,102640,0,6,Truebam,0.0,2.573591451383719,0.7052186177715092,1.08,Low Risk,Maintain regular monitoring.,6,0.0,0,0.91,Medium Risk,Monitor supplier performance and investigate recurring issues.
+145,108527,0,4,Laex,0.0,2.7212018652018792,0.4231311706629055,1.06,Low Risk,Maintain regular monitoring.,4,0.0,0,0.9,Medium Risk,Monitor supplier performance and investigate recurring issues.
+264,103158,0,5,Donelectrics,0.0,2.58657976365785,0.5641748942172073,1.05,Low Risk,Maintain regular monitoring.,5,0.0,0,0.89,Medium Risk,Monitor supplier performance and investigate recurring issues.
+305,96120,0,6,Blue-tech,0.0,2.410109219670724,0.7052186177715092,1.02,Low Risk,Maintain regular monitoring.,6,0.0,0,0.86,Medium Risk,Monitor supplier performance and investigate recurring issues.
+160,46271,0,19,Treedrill,0.0,1.1601972919619647,2.538787023977433,1.04,Low Risk,Maintain regular monitoring.,19,0.0,0,0.86,Medium Risk,Monitor supplier performance and investigate recurring issues.
+31,88666,0,7,Dingity,0.0,2.2232079075252225,0.846262341325811,0.99,Low Risk,Maintain regular monitoring.,7,0.0,0,0.84,Medium Risk,Monitor supplier performance and investigate recurring issues.
+98,30950,95,18,Strongcane,0.3628031315638724,0.7760391213983447,2.3977433004231314,1.02,Low Risk,Maintain regular monitoring.,18,0.0,0,0.82,Medium Risk,Monitor supplier performance and investigate recurring issues.
+101,7526,0,27,Itdom,0.0,0.1887066374036815,3.6671368124118473,0.98,Low Risk,Maintain regular monitoring.,27,0.0,0,0.79,Medium Risk,Monitor supplier performance and investigate recurring issues.
+111,70691,0,9,Trueplus,0.0,1.7725034420281225,1.1283497884344147,0.9,Low Risk,Maintain regular monitoring.,9,0.0,0,0.76,Medium Risk,Monitor supplier performance and investigate recurring issues.
+93,52421,50,10,Vaiataxon,0.1909490166125644,1.3144021577648668,1.2693935119887163,0.85,Low Risk,Maintain regular monitoring.,10,0.0,0,0.71,Medium Risk,Monitor supplier performance and investigate recurring issues.
+33,77982,0,4,Duodax,0.0,1.955317698380799,0.4231311706629055,0.79,Low Risk,Maintain regular monitoring.,4,0.0,0,0.67,Medium Risk,Monitor supplier performance and investigate recurring issues.
+231,25540,120,13,Zunhouse,0.4582776398701547,0.6403889874156293,1.692524682651622,0.83,Low Risk,Maintain regular monitoring.,13,0.0,0,0.67,Medium Risk,Monitor supplier performance and investigate recurring issues.
+163,8075,0,22,Ronvivalam,0.0,0.2024722424973064,2.9619181946403383,0.81,Low Risk,Maintain regular monitoring.,22,0.0,0,0.65,Medium Risk,Monitor supplier performance and investigate recurring issues.
+191,71744,0,5,unaity,0.0,1.7989063239290095,0.5641748942172073,0.77,Low Risk,Maintain regular monitoring.,5,0.0,0,0.65,Medium Risk,Monitor supplier performance and investigate recurring issues.
+117,40427,0,13,Aptaxon,0.0,1.013665058506329,1.692524682651622,0.78,Low Risk,Maintain regular monitoring.,13,0.0,0,0.64,Medium Risk,Monitor supplier performance and investigate recurring issues.
+265,80990,10,1,Icedox,0.0381898033225128,2.030740175833665,0.0,0.73,Low Risk,Maintain regular monitoring.,1,0.0,0,0.62,Medium Risk,Monitor supplier performance and investigate recurring issues.
+60,6354,109,14,Howplanet,0.4162688562153904,0.159319954034413,1.833568406205924,0.68,Low Risk,Maintain regular monitoring.,14,0.0,0,0.54,Medium Risk,Monitor supplier performance and investigate recurring issues.
+100,37746,0,10,Xx-canex,0.0,0.9464417666010314,1.2693935119887163,0.65,Low Risk,Maintain regular monitoring.,10,0.0,0,0.54,Medium Risk,Monitor supplier performance and investigate recurring issues.
+156,3574,0,19,Flexplex,0.0,0.0896143398991174,2.538787023977433,0.67,Low Risk,Maintain regular monitoring.,19,0.0,0,0.53,Medium Risk,Monitor supplier performance and investigate recurring issues.
+3,36658,0,10,bamity,0.0,0.9191612960329733,1.2693935119887163,0.64,Low Risk,Maintain regular monitoring.,10,0.0,0,0.53,Medium Risk,Monitor supplier performance and investigate recurring issues.
+178,42720,0,8,planetron,0.0,1.0711596531869882,0.9873060648801129,0.62,Low Risk,Maintain regular monitoring.,8,0.0,0,0.52,Medium Risk,Monitor supplier performance and investigate recurring issues.
+102,1868,0,19,Zamholdings,0.0,0.0468381608650115,2.538787023977433,0.65,Low Risk,Maintain regular monitoring.,19,0.0,0,0.52,Medium Risk,Monitor supplier performance and investigate recurring issues.
+143,19416,0,14,Plusity,0.0,0.4868360446226256,1.833568406205924,0.63,Low Risk,Maintain regular monitoring.,14,0.0,0,0.51,Medium Risk,Monitor supplier performance and investigate recurring issues.
+148,64080,0,2,Zapline,0.0,1.6067394797804824,0.1410437235543018,0.6,Low Risk,Maintain regular monitoring.,2,0.0,0,0.51,Medium Risk,Monitor supplier performance and investigate recurring issues.
+236,47462,0,6,Dingcan,0.0,1.1900603806076977,0.7052186177715092,0.59,Low Risk,Maintain regular monitoring.,6,0.0,0,0.5,Medium Risk,Monitor supplier performance and investigate recurring issues.
+74,36825,68,6,Kincorporation,0.2596906625930876,0.9233486476734748,0.7052186177715092,0.6,Low Risk,Maintain regular monitoring.,6,0.0,0,0.5,Medium Risk,Monitor supplier performance and investigate recurring issues.
+136,44467,0,7,Donglax,0.0,1.11496386465978,0.846262341325811,0.6,Low Risk,Maintain regular monitoring.,7,0.0,0,0.5,Medium Risk,Monitor supplier performance and investigate recurring issues.
+15,66847,0,1,Conzumzap,0.0,1.6761191324108289,0.0,0.59,Low Risk,Maintain regular monitoring.,1,0.0,0,0.5,Medium Risk,Monitor supplier performance and investigate recurring issues.
+127,48238,0,4,Trustcorporation,0.0,1.2095177750569743,0.4231311706629055,0.53,Low Risk,Maintain regular monitoring.,4,0.0,0,0.45,Medium Risk,Monitor supplier performance and investigate recurring issues.
+97,47011,0,4,Gravetech,0.0,1.1787520237821514,0.4231311706629055,0.52,Low Risk,Maintain regular monitoring.,4,0.0,0,0.44,Medium Risk,Monitor supplier performance and investigate recurring issues.
+124,38238,0,6,Constreet,0.0,0.9587781558652636,0.7052186177715092,0.51,Low Risk,Maintain regular monitoring.,6,0.0,0,0.43,Medium Risk,Monitor supplier performance and investigate recurring issues.
+184,20963,0,10,zummatax,0.0,0.5256254637115833,1.2693935119887163,0.5,Low Risk,Maintain regular monitoring.,10,0.0,0,0.41,Medium Risk,Monitor supplier performance and investigate recurring issues.
+269,40940,0,4,Ganzlane,0.0,1.0265280009708635,0.4231311706629055,0.47,Low Risk,Maintain regular monitoring.,4,0.0,0,0.39,Medium Risk,Monitor supplier performance and investigate recurring issues.
+204,31632,30,5,Ganzsannix,0.1145694099675386,0.7931395634272195,0.5641748942172073,0.46,Low Risk,Maintain regular monitoring.,5,0.0,0,0.39,Medium Risk,Monitor supplier performance and investigate recurring issues.
+86,23062,60,5,mathtouch,0.2291388199350773,0.5782557097799232,0.5641748942172073,0.44,Low Risk,Maintain regular monitoring.,5,0.0,0,0.36,Medium Risk,Monitor supplier performance and investigate recurring issues.
+263,43165,0,2,Joygreen,0.0,1.0823175662410196,0.1410437235543018,0.41,Low Risk,Maintain regular monitoring.,2,0.0,0,0.35,Medium Risk,Monitor supplier performance and investigate recurring issues.
+165,35200,0,4,Faxotfind,0.0,0.8826034595548218,0.4231311706629055,0.41,Low Risk,Maintain regular monitoring.,4,0.0,0,0.35,Medium Risk,Monitor supplier performance and investigate recurring issues.
+39,45390,0,1,Technoline,0.0,1.138107131511175,0.0,0.4,Low Risk,Maintain regular monitoring.,1,0.0,0,0.34,Medium Risk,Monitor supplier performance and investigate recurring issues.
+309,44589,0,1,Coneranron,0.0,1.1180228880139191,0.0,0.39,Low Risk,Maintain regular monitoring.,1,0.0,0,0.34,Medium Risk,Monitor supplier performance and investigate recurring issues.
+317,30260,45,3,Gogokeying,0.171854114951308,0.7587380876741167,0.2820874471086037,0.4,Low Risk,Maintain regular monitoring.,3,0.0,0,0.34,Medium Risk,Monitor supplier performance and investigate recurring issues.
+157,30262,0,5,Bluezoombam,0.0,0.758788235597955,0.5641748942172073,0.41,Low Risk,Maintain regular monitoring.,5,0.0,0,0.34,Medium Risk,Monitor supplier performance and investigate recurring issues.
+254,39881,0,2,Sonzamace,0.0,0.9999746752984616,0.1410437235543018,0.39,Low Risk,Maintain regular monitoring.,2,0.0,0,0.33,Medium Risk,Monitor supplier performance and investigate recurring issues.
+220,35600,0,3,D-quadlux,0.0,0.8926330443224902,0.2820874471086037,0.38,Low Risk,Maintain regular monitoring.,3,0.0,0,0.32,Medium Risk,Monitor supplier performance and investigate recurring issues.
+232,41795,0,1,Inchholdings,0.0,1.0479662384117552,0.0,0.37,Low Risk,Maintain regular monitoring.,1,0.0,0,0.31,Medium Risk,Monitor supplier performance and investigate recurring issues.
+228,40958,0,1,Faseelectronics,0.0,1.0269793322854088,0.0,0.36,Low Risk,Maintain regular monitoring.,1,0.0,0,0.31,Medium Risk,Monitor supplier performance and investigate recurring issues.
+130,466,0,12,Duoflex,0.0,0.0116844662543337,1.5514809590973202,0.39,Low Risk,Maintain regular monitoring.,12,0.0,0,0.31,Medium Risk,Monitor supplier performance and investigate recurring issues.
+44,29370,0,4,Strongdax,0.0,0.7364222615660544,0.4231311706629055,0.36,Low Risk,Maintain regular monitoring.,4,0.0,0,0.31,Medium Risk,Monitor supplier performance and investigate recurring issues.
+139,6048,0,10,Conelane,0.0,0.1516473216871466,1.2693935119887163,0.37,Low Risk,Maintain regular monitoring.,10,0.0,0,0.3,Medium Risk,Monitor supplier performance and investigate recurring issues.
+141,2160,0,11,Ronplanet,0.0,0.0541597577454095,1.4104372355430184,0.37,Low Risk,Maintain regular monitoring.,11,0.0,0,0.3,Medium Risk,Monitor supplier performance and investigate recurring issues.
+252,39160,0,1,Freebam,0.0,0.9818963487547392,0.0,0.34,Low Risk,Maintain regular monitoring.,1,0.0,0,0.29,Medium Risk,Monitor supplier performance and investigate recurring issues.
+187,35600,0,1,Inzone,0.0,0.8926330443224902,0.0,0.31,Low Risk,Maintain regular monitoring.,1,0.0,0,0.27,Medium Risk,Monitor supplier performance and investigate recurring issues.
+328,34390,0,1,Latcore,0.0,0.8622935504002933,0.0,0.3,Low Risk,Maintain regular monitoring.,1,0.0,0,0.26,Medium Risk,Monitor supplier performance and investigate recurring issues.
+114,573,0,10,Medialax,0.0,0.014367380179685,1.2693935119887163,0.32,Low Risk,Maintain regular monitoring.,10,0.0,0,0.26,Medium Risk,Monitor supplier performance and investigate recurring issues.
+88,643,0,10,Dongbiolex,0.0,0.016122557514027,1.2693935119887163,0.32,Low Risk,Maintain regular monitoring.,10,0.0,0,0.26,Medium Risk,Monitor supplier performance and investigate recurring issues.
+66,31158,0,2,Goldenbam,0.0,0.7812545054775324,0.1410437235543018,0.31,Low Risk,Maintain regular monitoring.,2,0.0,0,0.26,Medium Risk,Monitor supplier performance and investigate recurring issues.
+203,22250,0,4,Zerhouse,0.0,0.5578956527015564,0.4231311706629055,0.3,Low Risk,Maintain regular monitoring.,4,0.0,0,0.25,Medium Risk,Monitor supplier performance and investigate recurring issues.
+30,29815,0,2,Baselux,0.0,0.7475801746200856,0.1410437235543018,0.3,Low Risk,Maintain regular monitoring.,2,0.0,0,0.25,Medium Risk,Monitor supplier performance and investigate recurring issues.
+81,14199,0,6,Faseway,0.0,0.3560251852903101,0.7052186177715092,0.3,Low Risk,Maintain regular monitoring.,6,0.0,0,0.25,Medium Risk,Monitor supplier performance and investigate recurring issues.
+268,20757,15,3,Donremlane,0.0572847049837693,0.520460227556234,0.2820874471086037,0.28,Low Risk,Maintain regular monitoring.,3,0.0,0,0.23,Medium Risk,Monitor supplier performance and investigate recurring issues.
+137,402,0,9,Jaylane,0.0,0.0100797326915067,1.1283497884344147,0.29,Low Risk,Maintain regular monitoring.,9,0.0,0,0.23,Medium Risk,Monitor supplier performance and investigate recurring issues.
+169,19510,0,4,Opehouse,0.0,0.4891929970430276,0.4231311706629055,0.28,Low Risk,Maintain regular monitoring.,4,0.0,0,0.23,Medium Risk,Monitor supplier performance and investigate recurring issues.
+173,7674,0,7,Y-zoom,0.0,0.1924175837677188,0.846262341325811,0.28,Low Risk,Maintain regular monitoring.,7,0.0,0,0.23,Medium Risk,Monitor supplier performance and investigate recurring issues.
+76,26380,30,1,Plusla,0.1145694099675386,0.6614511154277329,0.0,0.28,Low Risk,Maintain regular monitoring.,1,0.0,0,0.23,Medium Risk,Monitor supplier performance and investigate recurring issues.
+51,13217,60,3,Saohow,0.2291388199350773,0.3314025546856841,0.2820874471086037,0.28,Low Risk,Maintain regular monitoring.,3,0.0,0,0.22,Medium Risk,Monitor supplier performance and investigate recurring issues.
+262,2519,130,3,Saltfan,0.4964674431926675,0.0631613100743919,0.2820874471086037,0.29,Low Risk,Maintain regular monitoring.,3,0.0,0,0.22,Medium Risk,Monitor supplier performance and investigate recurring issues.
+90,206,20,8,geofind,0.0763796066450257,0.0051652361553492,0.9873060648801129,0.28,Low Risk,Maintain regular monitoring.,8,0.0,0,0.22,Medium Risk,Monitor supplier performance and investigate recurring issues.
+273,27929,0,1,dan-high,0.0,0.7002906824405289,0.0,0.25,Low Risk,Maintain regular monitoring.,1,0.0,0,0.21,Medium Risk,Monitor supplier performance and investigate recurring issues.
+167,392,0,8,Hexunobam,0.0,0.009828993072315,0.9873060648801129,0.25,Low Risk,Maintain regular monitoring.,8,0.0,0,0.2,Medium Risk,Monitor supplier performance and investigate recurring issues.
+103,14952,0,4,Duo-fase,0.0,0.3749058786154459,0.4231311706629055,0.24,Low Risk,Maintain regular monitoring.,4,0.0,0,0.2,Medium Risk,Monitor supplier performance and investigate recurring issues.
+229,4842,60,4,Solozap,0.2291388199350773,0.1214081236126263,0.4231311706629055,0.24,Low Risk,Maintain regular monitoring.,4,0.0,0,0.19,Medium Risk,Monitor supplier performance and investigate recurring issues.
+154,1885,0,7,Goodquoing,0.0,0.0472644182176374,0.846262341325811,0.23,Low Risk,Maintain regular monitoring.,7,0.0,0,0.18,Medium Risk,Monitor supplier performance and investigate recurring issues.
+82,13067,0,4,Tripplekix,0.0,0.3276414603978084,0.4231311706629055,0.22,Low Risk,Maintain regular monitoring.,4,0.0,0,0.18,Medium Risk,Monitor supplier performance and investigate recurring issues.
+123,9436,0,5,K-antex,0.0,0.2365979046692982,0.5641748942172073,0.22,Low Risk,Maintain regular monitoring.,5,0.0,0,0.18,Medium Risk,Monitor supplier performance and investigate recurring issues.
+225,1317,0,7,Tripple-fax,0.0,0.0330224078475483,0.846262341325811,0.22,Low Risk,Maintain regular monitoring.,7,0.0,0,0.18,Medium Risk,Monitor supplier performance and investigate recurring issues.
+140,0,0,7,Matsanice,0.0,0.0,0.846262341325811,0.21,Low Risk,Maintain regular monitoring.,7,0.0,0,0.17,Medium Risk,Monitor supplier performance and investigate recurring issues.
+233,15575,19,2,Runhigh,0.0725606263127744,0.3905269568910894,0.1410437235543018,0.2,Low Risk,Maintain regular monitoring.,2,0.0,0,0.17,Medium Risk,Monitor supplier performance and investigate recurring issues.
+246,176,50,5,Technodax,0.1909490166125644,0.0044130172977741,0.5641748942172073,0.22,Low Risk,Maintain regular monitoring.,5,0.0,0,0.17,Medium Risk,Monitor supplier performance and investigate recurring issues.
+199,20993,0,1,Mediaware,0.0,0.5263776825691584,0.0,0.18,Low Risk,Maintain regular monitoring.,1,0.0,0,0.16,Medium Risk,Monitor supplier performance and investigate recurring issues.
+189,17400,0,2,Fixace,0.0,0.4362869373935767,0.1410437235543018,0.19,Low Risk,Maintain regular monitoring.,2,0.0,0,0.16,Medium Risk,Monitor supplier performance and investigate recurring issues.
+128,1621,80,3,Zimjiit,0.3055184265801031,0.0406448922709763,0.2820874471086037,0.21,Low Risk,Maintain regular monitoring.,3,0.0,0,0.16,Medium Risk,Monitor supplier performance and investigate recurring issues.
+179,18125,0,2,Stimcore,0.0,0.4544655597849757,0.1410437235543018,0.19,Low Risk,Maintain regular monitoring.,2,0.0,0,0.16,Medium Risk,Monitor supplier performance and investigate recurring issues.
+195,1921,0,6,Ontohatron,0.0,0.0481670808467276,0.7052186177715092,0.19,Low Risk,Maintain regular monitoring.,6,0.0,0,0.16,Medium Risk,Monitor supplier performance and investigate recurring issues.
+190,19737,0,1,tres-tone,0.0,0.4948847863986795,0.0,0.17,Low Risk,Maintain regular monitoring.,1,0.0,0,0.15,Medium Risk,Monitor supplier performance and investigate recurring issues.
+170,1846,0,6,Carekix,0.0,0.0462865337027898,0.7052186177715092,0.19,Low Risk,Maintain regular monitoring.,6,0.0,0,0.15,Medium Risk,Monitor supplier performance and investigate recurring issues.
+176,11773,0,3,Lamlab,0.0,0.295195753674401,0.2820874471086037,0.17,Low Risk,Maintain regular monitoring.,3,0.0,0,0.14,Medium Risk,Monitor supplier performance and investigate recurring issues.
+166,27,0,6,Warelane,0.0,0.0006769969718176,0.7052186177715092,0.18,Low Risk,Maintain regular monitoring.,6,0.0,0,0.14,Medium Risk,Monitor supplier performance and investigate recurring issues.
+181,4116,0,5,techmedia,0.0,0.1032044272593081,0.5641748942172073,0.18,Low Risk,Maintain regular monitoring.,5,0.0,0,0.14,Medium Risk,Monitor supplier performance and investigate recurring issues.
+120,3084,0,5,Donplanet,0.0,0.0773280985587235,0.5641748942172073,0.17,Low Risk,Maintain regular monitoring.,5,0.0,0,0.14,Medium Risk,Monitor supplier performance and investigate recurring issues.
+218,9891,0,3,Citytone,0.0,0.2480065573425211,0.2820874471086037,0.16,Low Risk,Maintain regular monitoring.,3,0.0,0,0.13,Medium Risk,Monitor supplier performance and investigate recurring issues.
+217,6257,0,4,Alphadax,0.0,0.1568877797282534,0.4231311706629055,0.16,Low Risk,Maintain regular monitoring.,4,0.0,0,0.13,Medium Risk,Monitor supplier performance and investigate recurring issues.
+151,5874,0,4,Joyancom,0.0,0.1472844523132108,0.4231311706629055,0.16,Low Risk,Maintain regular monitoring.,4,0.0,0,0.13,Medium Risk,Monitor supplier performance and investigate recurring issues.
+126,940,0,5,Dripvivadex,0.0,0.0235695242040208,0.5641748942172073,0.15,Low Risk,Maintain regular monitoring.,5,0.0,0,0.12,Medium Risk,Monitor supplier performance and investigate recurring issues.
+125,8544,0,3,Quotefix,0.0,0.2142319306373976,0.2820874471086037,0.15,Low Risk,Maintain regular monitoring.,3,0.0,0,0.12,Medium Risk,Monitor supplier performance and investigate recurring issues.
+149,187,0,5,Tamtexon,0.0,0.0046888308788849,0.5641748942172073,0.14,Low Risk,Maintain regular monitoring.,5,0.0,0,0.11,Medium Risk,Monitor supplier performance and investigate recurring issues.
+224,3115,0,4,Zoomhex,0.0,0.0781053913782179,0.4231311706629055,0.13,Low Risk,Maintain regular monitoring.,4,0.0,0,0.11,Medium Risk,Monitor supplier performance and investigate recurring issues.
+87,14418,0,1,Zimity,0.0,0.3615163829506085,0.0,0.13,Low Risk,Maintain regular monitoring.,1,0.0,0,0.11,Medium Risk,Monitor supplier performance and investigate recurring issues.
+78,2594,0,4,tamplex,0.0,0.0650418572183297,0.4231311706629055,0.13,Low Risk,Maintain regular monitoring.,4,0.0,0,0.1,Medium Risk,Monitor supplier performance and investigate recurring issues.
+91,6284,0,3,Iceelectrics,0.0,0.157564776700071,0.2820874471086037,0.13,Low Risk,Maintain regular monitoring.,3,0.0,0,0.1,Medium Risk,Monitor supplier performance and investigate recurring issues.
+146,5340,0,3,Tantax,0.0,0.1338949566483735,0.2820874471086037,0.12,Low Risk,Maintain regular monitoring.,3,0.0,0,0.1,Medium Risk,Monitor supplier performance and investigate recurring issues.
+247,1653,0,4,re-can,0.0,0.0414472590523897,0.4231311706629055,0.12,Low Risk,Maintain regular monitoring.,4,0.0,0,0.1,Medium Risk,Monitor supplier performance and investigate recurring issues.
+271,9542,0,2,Tonsanhigh,0.0,0.2392557446327304,0.1410437235543018,0.12,Low Risk,Maintain regular monitoring.,2,0.0,0,0.1,Medium Risk,Monitor supplier performance and investigate recurring issues.
+71,12301,0,1,Anmedia,0.0,0.3084348055677234,0.0,0.11,Low Risk,Maintain regular monitoring.,1,0.0,0,0.09,Medium Risk,Monitor supplier performance and investigate recurring issues.
+162,204,0,4,Dingquokix,0.0,0.0051150882315108,0.4231311706629055,0.11,Low Risk,Maintain regular monitoring.,4,0.0,0,0.09,Medium Risk,Monitor supplier performance and investigate recurring issues.
+109,365,0,4,Fin-cone,0.0,0.0091519961004974,0.4231311706629055,0.11,Low Risk,Maintain regular monitoring.,4,0.0,0,0.09,Medium Risk,Monitor supplier performance and investigate recurring issues.
+115,27,0,4,Ronlamice,0.0,0.0006769969718176,0.4231311706629055,0.11,Low Risk,Maintain regular monitoring.,4,0.0,0,0.08,Medium Risk,Monitor supplier performance and investigate recurring issues.
+135,3338,0,3,apzone,0.0,0.083696884886193,0.2820874471086037,0.1,Low Risk,Maintain regular monitoring.,3,0.0,0,0.08,Medium Risk,Monitor supplier performance and investigate recurring issues.
+306,7476,0,2,Unahigh,0.0,0.1874529393077229,0.1410437235543018,0.1,Low Risk,Maintain regular monitoring.,2,0.0,0,0.08,Medium Risk,Monitor supplier performance and investigate recurring issues.
+196,788,63,1,Indibase,0.2405957609318312,0.0197582819923068,0.0,0.1,Low Risk,Maintain regular monitoring.,1,0.0,0,0.08,Medium Risk,Monitor supplier performance and investigate recurring issues.
+177,0,0,4,Geoit,0.0,0.0,0.4231311706629055,0.11,Low Risk,Maintain regular monitoring.,4,0.0,0,0.08,Medium Risk,Monitor supplier performance and investigate recurring issues.
+168,3459,0,3,Quadplanet,0.0,0.0867308342784127,0.2820874471086037,0.1,Low Risk,Maintain regular monitoring.,3,0.0,0,0.08,Medium Risk,Monitor supplier performance and investigate recurring issues.
+221,735,30,2,Funlatlex,0.1145694099675386,0.0184293620105907,0.1410437235543018,0.09,Low Risk,Maintain regular monitoring.,2,0.0,0,0.07,Medium Risk,Monitor supplier performance and investigate recurring issues.
+192,5732,0,2,Scotline,0.0,0.1437239497206886,0.1410437235543018,0.09,Low Risk,Maintain regular monitoring.,2,0.0,0,0.07,Medium Risk,Monitor supplier performance and investigate recurring issues.
+121,36,40,2,Whitekix,0.1527592132900515,0.0009026626290901,0.1410437235543018,0.1,Low Risk,Maintain regular monitoring.,2,0.0,0,0.07,Medium Risk,Monitor supplier performance and investigate recurring issues.
+240,8811,0,1,Good-find,0.0,0.2209266784698163,0.0,0.08,Low Risk,Maintain regular monitoring.,1,0.0,0,0.07,Medium Risk,Monitor supplier performance and investigate recurring issues.
+112,0,0,3,Templax,0.0,0.0,0.2820874471086037,0.07,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+131,526,0,3,Canetechnology,0.0,0.0131889039694839,0.2820874471086037,0.08,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+113,129,0,3,roundphase,0.0,0.003234541087573,0.2820874471086037,0.07,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+291,8010,0,1,Roundlam,0.0,0.2008424349725603,0.0,0.07,Low Risk,Maintain regular monitoring.,1,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+299,0,0,3,Vivazim,0.0,0.0,0.2820874471086037,0.07,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+215,4806,0,2,Rankphase,0.0,0.1205054609835361,0.1410437235543018,0.08,Low Risk,Maintain regular monitoring.,2,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+144,0,0,3,Quotefix,0.0,0.0,0.2820874471086037,0.07,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+186,4326,0,2,Keystreet,0.0,0.108469959262334,0.1410437235543018,0.07,Low Risk,Maintain regular monitoring.,2,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+205,438,0,3,Yearcorporation,0.0,0.0109823953205969,0.2820874471086037,0.07,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+312,0,0,3,Zathlane,0.0,0.0,0.2820874471086037,0.07,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+284,0,0,3,Dingfax,0.0,0.0,0.2820874471086037,0.07,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+194,8075,0,1,doubleis,0.0,0.2024722424973064,0.0,0.07,Low Risk,Maintain regular monitoring.,1,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+321,0,0,3,Linetone,0.0,0.0,0.2820874471086037,0.07,Low Risk,Maintain regular monitoring.,3,0.0,0,0.06,Medium Risk,Monitor supplier performance and investigate recurring issues.
+235,6388,0,1,Fasezoomfix,0.0,0.1601724687396648,0.0,0.06,Low Risk,Maintain regular monitoring.,1,0.0,0,0.05,Low Risk,Maintain regular monitoring.
+298,6408,0,1,Tempfan,0.0,0.1606739479780482,0.0,0.06,Low Risk,Maintain regular monitoring.,1,0.0,0,0.05,Low Risk,Maintain regular monitoring.
+158,3560,0,2,Cityis,0.0,0.089263304432249,0.1410437235543018,0.07,Low Risk,Maintain regular monitoring.,2,0.0,0,0.05,Low Risk,Maintain regular monitoring.
+67,1043,0,2,silfase,0.0,0.0261521422816954,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.04,Low Risk,Maintain regular monitoring.
+201,1538,0,2,Canecare,0.0,0.0385637534316851,0.1410437235543018,0.05,Low Risk,Maintain regular monitoring.,2,0.0,0,0.04,Low Risk,Maintain regular monitoring.
+238,5924,0,1,hexzim,0.0,0.1485381504091694,0.0,0.05,Low Risk,Maintain regular monitoring.,1,0.0,0,0.04,Low Risk,Maintain regular monitoring.
+138,1780,0,2,Silverace,0.0,0.0446316522161245,0.1410437235543018,0.05,Low Risk,Maintain regular monitoring.,2,0.0,0,0.04,Low Risk,Maintain regular monitoring.
+251,2,0,2,Sonbam,0.0,5.014792383834215e-05,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+152,0,0,2,Goodtechno,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+290,0,0,2,Condexon,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+106,98,0,2,Beta-ron,0.0,0.0024572482680787,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+50,2225,10,1,Matdex,0.0381898033225128,0.0557895652701556,0.0,0.03,Low Risk,Maintain regular monitoring.,1,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+207,0,0,2,Planetware,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+133,34,0,2,Solostreet,0.0,0.0008525147052518,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+261,1,0,2,Subvivais,0.0,2.5073961919171075e-05,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+301,0,0,2,Ittam,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+230,2,0,2,Golddexon,0.0,5.014792383834215e-05,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+161,0,0,2,stripzim,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+73,24,0,2,Physcone,0.0,0.0006017750860601,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+122,0,0,2,Streetplus,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+315,0,0,2,Zamlane,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+223,25,0,2,Anzammedia,0.0,0.0006268490479792,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+292,0,0,2,Canphase,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+272,89,0,2,Siliconcore,0.0,0.0022315826108062,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+208,0,0,2,Indigoice,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+241,93,0,2,Plexlamway,0.0,0.0023318784584829,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+147,0,0,2,Solohex,0.0,0.0,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+322,89,0,2,Tantechi,0.0,0.0022315826108062,0.1410437235543018,0.04,Low Risk,Maintain regular monitoring.,2,0.0,0,0.03,Low Risk,Maintain regular monitoring.
+61,54,15,1,Fasezim,0.0572847049837693,0.0013539939436352,0.0,0.02,Low Risk,Maintain regular monitoring.,1,0.0,0,0.02,Low Risk,Maintain regular monitoring.
+304,2270,0,1,Itcantrans,0.0,0.0569178935565183,0.0,0.02,Low Risk,Maintain regular monitoring.,1,0.0,0,0.02,Low Risk,Maintain regular monitoring.
+255,2003,0,1,Linezatlam,0.0,0.0502231457240996,0.0,0.02,Low Risk,Maintain regular monitoring.,1,0.0,0,0.02,Low Risk,Maintain regular monitoring.
+283,2777,0,1,Howelectrics,0.0,0.069630392249538,0.0,0.02,Low Risk,Maintain regular monitoring.,1,0.0,0,0.02,Low Risk,Maintain regular monitoring.
+327,1717,0,1,Funfintech,0.0,0.0430519926152167,0.0,0.02,Low Risk,Maintain regular monitoring.,1,0.0,0,0.01,Low Risk,Maintain regular monitoring.
+253,1963,0,1,Faxzumtrax,0.0,0.0492201872473328,0.0,0.02,Low Risk,Maintain regular monitoring.,1,0.0,0,0.01,Low Risk,Maintain regular monitoring.
+286,1691,0,1,Saocity,0.0,0.0424000696053182,0.0,0.01,Low Risk,Maintain regular monitoring.,1,0.0,0,0.01,Low Risk,Maintain regular monitoring.
+249,1002,0,1,acequote,0.0,0.0251241098430094,0.0,0.01,Low Risk,Maintain regular monitoring.,1,0.0,0,0.01,Low Risk,Maintain regular monitoring.
+280,1335,0,1,Triootity,0.0,0.0334737391620933,0.0,0.01,Low Risk,Maintain regular monitoring.,1,0.0,0,0.01,Low Risk,Maintain regular monitoring.
+308,196,0,1,Redozetam,0.0,0.0049144965361575,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+325,23,0,1,Kinice,0.0,0.0005767011241409,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+310,0,0,1,zen-holdings,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+326,0,0,1,Bamgeohigh,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+211,0,0,1,Fixcan,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+226,187,0,1,Qvofix,0.0,0.0046888308788849,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+198,579,0,1,geohigh,0.0,0.0145178239512,0.0,0.01,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+193,0,0,1,Daltcare,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+180,0,0,1,Zuntone,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+248,0,0,1,Unatrax,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+209,116,0,1,Zotfan,0.0,0.0029085795826238,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+210,3,0,1,Medcan,0.0,7.522188575751322e-05,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+307,539,0,1,openzap,0.0,0.0135148654744332,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+319,0,0,1,Canace,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+48,0,0,1,Sonlex,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+214,0,0,1,Toncode,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+311,67,0,1,Warebam,0.0,0.0016799554485844,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+222,0,0,1,wareholding,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+313,0,0,1,Hayholding,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+159,0,0,1,Kantone,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+94,0,0,1,Pluslam,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+38,2,0,1,Zerfax,0.0,5.014792383834215e-05,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+316,0,0,1,Viacane,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+318,0,0,1,tinron,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+212,0,0,1,Dentoelectrics,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+10,0,0,1,san-plex,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+324,0,0,1,Iselectrics,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+302,0,0,1,saltlab,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+287,0,0,1,Joyzim,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+197,445,0,1,Dongtinlux,0.0,0.0111579130540311,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+257,0,0,1,Statway,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+227,1,0,1,Isdexon,0.0,2.5073961919171075e-05,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+297,36,0,1,villahouse,0.0,0.0009026626290901,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+282,0,0,1,Dongbase,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+202,0,0,1,Zumcane,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+266,49,0,1,Namelectronics,0.0,0.0012286241340393,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+183,312,0,1,Lexidom,0.0,0.0078230761187813,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+188,0,0,1,Zerlane,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+274,118,0,1,Jobtechnology,0.0,0.0029587275064621,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+275,0,0,1,Daltron,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+276,0,0,1,Y-strip,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+277,0,0,1,Danfan,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+278,23,0,1,Plustaxon,0.0,0.0005767011241409,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+65,9,0,1,Greentech,0.0,0.0002256656572725,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+258,178,0,1,Zunzone,0.0,0.0044631652216124,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+281,0,0,1,Konknix,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+293,0,0,1,betaity,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+267,0,0,1,Warecity,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+294,2,0,1,Jaydox,0.0,5.014792383834215e-05,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+285,0,0,1,Zimex,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+288,0,0,1,Silver-line,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+260,1,0,1,zathhow,0.0,2.5073961919171075e-05,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+200,0,0,1,Goldenlex,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+134,98,0,1,Xx-planet,0.0,0.0024572482680787,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+54,0,0,1,dripkix,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+295,223,0,1,O-tom,0.0,0.0055914935079751,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
+244,0,0,1,Scothouse,0.0,0.0,0.0,0.0,Low Risk,Maintain regular monitoring.,1,0.0,0,0.0,Low Risk,Maintain regular monitoring.
